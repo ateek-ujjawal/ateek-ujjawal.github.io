@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3c472283.css",
+    "main.js": "/static/js/main.f65467a8.js",
+    "static/js/453.1407b060.chunk.js": "/static/js/453.1407b060.chunk.js",
+    "static/media/Ateek_profile.jpg": "/static/media/Ateek_profile.c189625d24e4b6282a37.jpg",
+    "static/media/muj.png": "/static/media/muj.6e11fc446e1707ee76f3.png",
+    "static/media/dell.jpg": "/static/media/dell.c0f36b660e4c478e5adf.jpg",
+    "static/media/northeastern.png": "/static/media/northeastern.9afe82ebc553661fde4e.png",
+    "index.html": "/index.html",
+    "main.3c472283.css.map": "/static/css/main.3c472283.css.map",
+    "main.f65467a8.js.map": "/static/js/main.f65467a8.js.map",
+    "453.1407b060.chunk.js.map": "/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c472283.css",
+    "static/js/main.f65467a8.js"
+  ]
+}
