@@ -10,6 +10,18 @@ const Projects = () => {
           skills: "C++, Networks, Distributed Systems, gdb"
         },
         {
+          title: "Tiny-renderer",
+          desc: "A 3D software renderer which implements parts of the OpenGL pipeline like vertex and fragment shaders. Loads and renders 3d object meshes. Implements blinn-phong shading to render scenes with textures, normals and specular intensity maps.",
+          code: "https://github.com/ateek-ujjawal/tiny-renderer",
+          skills: "C++, Computer Graphics"
+        },
+        {
+          title: "Rusty-OS",
+          desc: "A very small OS written in Rust for RISC-V systems(QEMU). Implemented bootloader, virtual memory, trap handler and system calls, process structures etc.",
+          code: "https://github.com/ateek-ujjawal/rusty-os",
+          skills: "Rust, Operating Systems"
+        },
+        {
           title: "ext2 based file system",
           desc: "Built a simple ext2 based file system that runs on FUSE. Supports operations such as read, write, create, truncate, mkdir, rmdir, chmod etc. Blocks are sized 1KB each. It is based on ext2 with allocation bitmaps and inodes being grouped at the start of the disk.",
           code: "https://github.com/ateek-ujjawal/unix-fs",
@@ -17,7 +29,7 @@ const Projects = () => {
         },
         {
           title: "Image Processing Application",
-          desc: "Made an image processing application using Java and Swing. The application supports features such as extracting color components, putting filters such as greyscale, sepia etc. Compress, blur, sharpen, color correct and dither images. Used Haar-Wavelet transforms for compression.",
+          desc: "Made an image processing application using Java and Swing. The application supports features such as extracting color components, putting filters such as greyscale, sepia etc. Compress, blur, sharpen, color correct and dither images. Used Haar-Wavelet transforms for compression. Rendered in a tabular UI in swing featuring saving and working on multiple images at once.",
           code: "",
           skills: "Java, Swing"
         },

@@ -16,7 +16,7 @@ const Hero = () => {
           </h1>
 
           <p className="py-5">
-            I like to dabble in low-level concepts like Operating Systems, Networks etc.
+            I like to dabble in low-level concepts like Operating Systems, Graphics, Networks etc.
           </p>
           <p className="py-1">
           Professionally, I have worked with technologies like C#, .NET and SQL Server.
@@ -38,6 +38,12 @@ const Hero = () => {
           >
             See Projects
           </a>
+            <a
+              href="https://drive.google.com/file/d/1TMnd83kvnVFPqIH8O1o6pHIe_zt6JJ7z/view?usp=sharing"
+              className=" btn bg-accent  border-2 border-[#5ec4dd] text-white px-6 py-3 mx-8 hover:bg-transparent"
+            >
+              See Resume
+            </a>
         </div>
 
         <div className="hero-img items-center md:h-auto md:w-full">
